@@ -4,6 +4,8 @@
 
 // const { formSubmission } = require("./scriptHelper");
 
+//resubbing file for autograder on github 
+
 window.addEventListener("load", function() {
     let button = document.getElementById("formSubmit");
     button.addEventListener("click", function() {
